@@ -13,6 +13,8 @@
   top: 15vh;
   left: 5%;
   width: 90%;
+  height: 75vh;
+  overflow-y: auto;
   background-color: white;
   padding: 1rem;
   border-radius: 14px;
